@@ -1,0 +1,63 @@
+html {
+  scroll-behavior: smooth;
+}
+.icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 5%;
+  box-shadow: 3 3 5 2;
+}
+
+.treeT {
+  width: auto;
+  height: auto;
+  border-radius: 10%;
+
+  transition-duration: 2s;
+}
+
+.treeT:hover {
+  box-shadow: 5px 5px 5px 5px #A149FA;
+  transition-duration: 2s;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  text-align: center;
+}
+
+#Button2 {
+  float: right;
+}
+
+#section {
+  background-color: #76549A;
+}
+
+
+#ttab {
+  border-radius: 3%;
+}
+
+#mcoon {
+  border-radius: 3%;
+}
+
+#mfhead {
+  border-radius: 3%;
+}
+
+#tabeyes {
+  border-radius: 3%;
+}
+#quotediv {
+  margin: 50px 50px 50px 50px;
+  padding: 30px;
+  background-color: rgb(22, 28, 45, 0.3)
+}
